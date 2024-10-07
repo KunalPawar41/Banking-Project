@@ -1,0 +1,7 @@
+C:\Users\lenovo\Desktop\C#\Projects\bin\Debug\Projects.exe
+C:\Users\lenovo\Desktop\C#\Projects\bin\Debug\Projects.pdb
+C:\Users\lenovo\Desktop\C#\Projects\obj\Debug\Projects.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\C#\Projects\obj\Debug\Projects.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\C#\Projects\obj\Debug\Projects.pdb
+C:\Users\lenovo\Desktop\C#\Projects\bin\Debug\Projects.exe.config
+C:\Users\lenovo\Desktop\C#\Projects\obj\Debug\Projects.exe
